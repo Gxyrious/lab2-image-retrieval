@@ -1,0 +1,10 @@
+__pycache__
+neighbor_list_recom.pickle
+saved_features_recom.txt
+uploads
+result
+front-end-vue/dist
+front-end-vue/node_modules
+front-end-vue/yarn.lock
+front-end-vue/package-lock.json
+.DS_Store
