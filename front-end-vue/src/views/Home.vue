@@ -13,7 +13,7 @@
             </el-button>
             <el-button
               @click="openCollection" type="warning" @changeCollect="getCollection"
-              :disabled="collectDialogVisible">Collections
+              :disabled="collectDialogVisible">我的收藏
             </el-button>
           </el-row>
 
